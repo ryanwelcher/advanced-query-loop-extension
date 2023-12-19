@@ -6,6 +6,7 @@
  * Requires PHP:      7.0
  * Version:           0.1.0
  * Author:            Ryan Welcher, WordPress Developer Blog
+ * Author URI:        https://developer.wordpress.org/news/
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       aql-extension
