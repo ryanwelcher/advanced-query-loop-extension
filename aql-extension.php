@@ -31,7 +31,7 @@
 			\wp_enqueue_script(
 				'aql-extension',
 				plugin_dir_url( __FILE__ ) . 'build/plugin.js',
-				$assets['dependencies'],
+				array_merge($assets['dependencies'], ['advanced-query-loop'] ),
 				$assets['version'],
 				true
 			);
